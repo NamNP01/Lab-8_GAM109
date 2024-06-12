@@ -1,0 +1,8 @@
+D:\FPTEDU\Lập trình C#2 cho Unity\lab nop\Lab8\Bai1\bin\Debug\Bai1.exe.config
+D:\FPTEDU\Lập trình C#2 cho Unity\lab nop\Lab8\Bai1\bin\Debug\Bai1.exe
+D:\FPTEDU\Lập trình C#2 cho Unity\lab nop\Lab8\Bai1\bin\Debug\Bai1.pdb
+D:\FPTEDU\Lập trình C#2 cho Unity\lab nop\Lab8\Bai1\obj\Debug\Bai1.csproj.AssemblyReference.cache
+D:\FPTEDU\Lập trình C#2 cho Unity\lab nop\Lab8\Bai1\obj\Debug\Bai1.csproj.SuggestedBindingRedirects.cache
+D:\FPTEDU\Lập trình C#2 cho Unity\lab nop\Lab8\Bai1\obj\Debug\Bai1.csproj.CoreCompileInputs.cache
+D:\FPTEDU\Lập trình C#2 cho Unity\lab nop\Lab8\Bai1\obj\Debug\Bai1.exe
+D:\FPTEDU\Lập trình C#2 cho Unity\lab nop\Lab8\Bai1\obj\Debug\Bai1.pdb
